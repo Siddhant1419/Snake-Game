@@ -1,1 +1,17 @@
-I thought of making a snake game using javascript and here it is !!
+# Snake Game
+
+#### I have created a web-app of the Snake game. An old project that I wanted to post.
+
+## Live Demo:
+
+#### You can have a look at the <a href="">Snake Game</a> here.
+
+## Why I made this?
+
+#### To have a better understanding of Javascript EventListeners.
+
+## Technologies Used:
+
+#### HTML
+#### CSS
+#### Javascript
