@@ -4,7 +4,7 @@
 
 ## Live Demo:
 
-#### You can have a look at the <a href="https://siddhant1419.github.io/Snake-Game/">Snake Game</a> here.
+#### Hey do you want to play <a href="https://siddhant1419.github.io/Snake-Game/">Snake Game</a> ?.
 
 ## Why I made this?
 
